@@ -1,2 +1,5 @@
+
 a.out:
-  gcc main.c
+	gcc main.c
+
+
